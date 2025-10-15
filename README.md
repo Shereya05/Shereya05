@@ -12,6 +12,13 @@
 🎯 Goal: To use technology for **social impact and innovation**  
 
 ---
+## 🌐 My Portfolio
+
+Check out my personal site:
+
+👉 [shereya05.github.io/Shereya_Portfolio](https://shereya05.github.io/Shereya_Portfolio/)
+
+
 
 ### 🧩 Skills & Tools
 
