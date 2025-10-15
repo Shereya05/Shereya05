@@ -31,18 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shereyabaskaran&show_icons=true&theme=radical" alt="Shereya's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shereyabaskaran&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
